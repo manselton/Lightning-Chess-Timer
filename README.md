@@ -1,7 +1,6 @@
 # Lightning-Chess-Timer
 
-*** Update: The Windows executable is extremely slow to load. As a hobbyist I have been unable to overcome this. I can only suggest that if you wish this little program to run well on Windows then you should do the same as any Linux/BSD user would. Install Python from https://www.python.org, install the poython module installer pip and then the module pygame. The file lightning.py will then run smoothly with a double-click. ***
-
+*** Update: The Windows executable is extremely slow to load. As a hobbyist I have been unable to overcome this. I can only suggest that if you wish this little program to run well on Windows then you should do the same as any Linux/BSD user would. Install Python from https://www.python.org, install the python module installer pip and then the module pygame. The file lightning.py will then run smoothly with a double-click. ***
 
 A simple gui to play a 3 second foghorn every 5-30 seconds.
 
